@@ -2,6 +2,8 @@
 
 ## 0.3.0 (not released yet)
 
+* Add support for running commands on remote server via SSH
+
 ## 0.2.0 (2023-06-02)
 
 * Add a way to get the command instance in a task

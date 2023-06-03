@@ -109,3 +109,4 @@ Discover more by reading the docs:
 * [Parallel Processing](doc/08-parallel.md)
 * [Notification](doc/09-notify.md)
 * [Log and Debug](doc/10-log.md)
+* [SSH and remote servers](doc/11-ssh.md)

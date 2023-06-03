@@ -45,6 +45,7 @@ $commandFilterList = [
     'parallel:sleep',
     'run:run-parallel',
     'run:run-ls',
+    'ssh:ls',
 ];
 $optionFilterList = array_flip(['help', 'quiet', 'verbose', 'version', 'ansi', 'no-ansi', 'no-interaction', 'context']);
 foreach ($applicationDescription['commands'] as $command) {
